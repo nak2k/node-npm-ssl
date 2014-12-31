@@ -1,0 +1,22 @@
+{
+  "name": "npm-ssl",
+  "version": "0.0.1",
+  "description": "npm with SSL Client Auth",
+  "author": "Kengo Nakatsuka <kengo.nakatsuka@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/nak2k/node-npm-ssl/issues"
+  },
+  "bin": {
+    "npm-ssl": "bin/npm-ssl.js"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "preferglobal": true,
+  "homepage": "https://github.com/nak2k/node-npm-ssl",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nak2k/node-npm-ssl.git"
+  },
+  "scripts": {}
+}
